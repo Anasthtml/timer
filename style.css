@@ -1,0 +1,17 @@
+p{
+text-align: center;
+font-weight: 700;
+font-size: 20px;
+}
+
+table {
+    margin: 0px auto;
+    border-collapse: collapse;
+    text-align: center;
+}
+td, th {
+    height: 30px;
+    width: 100px;
+    border: solid 2px;
+    text-align: center;
+}
